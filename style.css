@@ -1,0 +1,82 @@
+cover{
+    background-color: rgb(73, 2, 2);
+}
+.customer, .numP, .tot{
+    color: rgb(13, 90, 90);
+    padding: 1em;
+    font-size: 20px;
+    font-style: solid;
+}
+.details{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2.5em;
+    font-size: 18px;
+}
+.cart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 0%;
+    background-color:wheat;
+}
+.pic{
+    height: 3.5em;
+}
+.add_remove{
+    width: 3em;
+}
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    column-width: 10em;
+    border: 1px solid;
+    border-collapse: collapse;
+    border-color:black;
+    text-align: center;
+    height: 3em;
+    color: brown;
+    font-size: 19px;
+}
+.payBtn{
+    background-color: rgb(26, 151, 151);
+    border: none;
+    padding: 0.5em;
+    width: 4em;
+}
+.details{
+    display: flex;
+}
+.listPizzas{
+    padding-bottom: 3em;
+}
+body{
+    background-color: burlywood;
+}
+h1 {
+    color: rgb(26, 165, 165);
+    text-align: center;
+}
+h4{
+    font-style: normal;
+    font-weight: 600;
+    color: brown;
+    text-align: center;
+}
+h5{
+    font-style: normal;
+    font-weight: 200;
+    color:brown;
+    text-align: center;
+}
+p{
+    font-style: normal;
+    font-weight: 100;
+    color:black;
+    text-align: center;
+}
+
+
+
